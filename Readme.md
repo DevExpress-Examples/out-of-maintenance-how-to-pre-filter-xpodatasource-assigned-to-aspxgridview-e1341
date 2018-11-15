@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [AdventureWorksObjects.cs](./CS/ServerModeWithParameters/AdventureWorksObjects.cs) (VB: [AdventureWorksObjects.vb](./VB/ServerModeWithParameters/AdventureWorksObjects.vb))
+* [Default.aspx](./CS/ServerModeWithParameters/Default.aspx) (VB: [Default.aspx](./VB/ServerModeWithParameters/Default.aspx))
+* [Default.aspx.cs](./CS/ServerModeWithParameters/Default.aspx.cs) (VB: [Default.aspx](./VB/ServerModeWithParameters/Default.aspx))
+* [XpoHelper.cs](./CS/ServerModeWithParameters/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/ServerModeWithParameters/XpoHelper.vb))
+<!-- default file list end -->
 # How to pre-filter XpoDataSource assigned to ASPxGridView
 
 
