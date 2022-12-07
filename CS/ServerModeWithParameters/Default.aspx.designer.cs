@@ -35,7 +35,7 @@ namespace ServerModeWithParameters {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxLabel ASPxLabel1;
+        protected global::DevExpress.Web.ASPxLabel ASPxLabel1;
         
         /// <summary>
         /// ASPxComboBox1 control.
@@ -44,7 +44,7 @@ namespace ServerModeWithParameters {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxComboBox ASPxComboBox1;
+        protected global::DevExpress.Web.ASPxComboBox ASPxComboBox1;
         
         /// <summary>
         /// ASPxGridView1 control.
@@ -53,7 +53,7 @@ namespace ServerModeWithParameters {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView ASPxGridView1;
+        protected global::DevExpress.Web.ASPxGridView ASPxGridView1;
         
         /// <summary>
         /// XpoDataSource1 control.

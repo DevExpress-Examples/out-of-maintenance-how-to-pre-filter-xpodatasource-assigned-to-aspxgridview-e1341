@@ -38,7 +38,7 @@ Namespace ServerModeWithParameters
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxLabel1 As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+		Protected ASPxLabel1 As Global.DevExpress.Web.ASPxLabel
 
 		''' <summary>
 		''' ASPxComboBox1 control.
@@ -47,7 +47,7 @@ Namespace ServerModeWithParameters
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxComboBox1 As Global.DevExpress.Web.ASPxEditors.ASPxComboBox
+		Protected ASPxComboBox1 As Global.DevExpress.Web.ASPxComboBox
 
 		''' <summary>
 		''' ASPxGridView1 control.
@@ -56,7 +56,7 @@ Namespace ServerModeWithParameters
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView
 
 		''' <summary>
 		''' XpoDataSource1 control.
