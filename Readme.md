@@ -1,7 +1,3 @@
-<!-- default badges list -->
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1341)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -11,9 +7,6 @@
 * [XpoHelper.cs](./CS/ServerModeWithParameters/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/ServerModeWithParameters/XpoHelper.vb))
 <!-- default file list end -->
 # How to pre-filter XpoDataSource assigned to ASPxGridView
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1341/)**
-<!-- run online end -->
 
 
 <p>This example uses a combo box to filter the grid's data source. The grid works in <a href="http://documentation.devexpress.com/#AspNet/CustomDocument3726">Server mode</a> provided by <a href="http://www.devexpress.com/xpo">eXpress Persistent Objects</a>. XpoDataSource has a filtering parameter, which is set within the grid's <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridViewASPxGridView_BeforePerformDataSelecttopic">BeforePerformDataSelect</a> event handler. The sample loads data from the AdventureWorks demo database on a local SQL Server.</p><p><strong>See Also:</strong><br />
